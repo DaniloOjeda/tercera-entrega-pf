@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "imagen": "🍌",
+        "nombre": "Bananas",
+        "precio": 100
+    },
+    {
+        "id": 2,
+        "imagen": "🍎🍏",
+        "nombre": "Manzanas",
+        "precio": 150
+    },
+    {
+        "id": 3,
+        "imagen": "🥝",
+        "nombre": "Kiwis",
+        "precio": 500
+    },
+    {
+        "id": 4,
+        "imagen": "🍈",
+        "nombre": "Melón",
+        "precio": 280
+    },
+    {
+        "id": 5,
+        "imagen": "🍍",
+        "nombre": "Piñas",
+        "precio": 420
+    },
+    {
+        "id": 6,
+        "imagen": "🍅",
+        "nombre": "Tomates",
+        "precio": 300
+    },
+    {
+        "id": 7,
+        "imagen": "🍉",
+        "nombre": "Sandias",
+        "precio": 1000
+    },
+    {
+        "id": 8,
+        "imagen": "🍑",
+        "nombre": "Duraznos",
+        "precio": 450
+    },
+    {
+        "id": 9,
+        "imagen": "🫐",
+        "nombre": "Arandanos",
+        "precio": 700
+    },
+    {
+        "id": 10,
+        "imagen": "🍇",
+        "nombre": "Uvas",
+        "precio": 500
+    }
+]
